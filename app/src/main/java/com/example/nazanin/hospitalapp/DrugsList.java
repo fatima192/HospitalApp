@@ -19,7 +19,7 @@ public class DrugsList extends Fragment {
 
 
 
-    String [] list = {"aval", "dovom", "sevom"};
+    String [] list = {"aval", "dovom", "sevom", "chaharom", "panjom","shishom"};
 
     public static Drugs newInstance() {
         Drugs fragment = new Drugs();
